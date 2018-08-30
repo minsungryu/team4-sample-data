@@ -1,0 +1,18 @@
+{
+  "name": "nanumchan-sample-data-generator",
+  "version": "0.1.0",
+  "description": "우아한테크캠프 4조 언니쓰 프로젝트 샘플 데이터 생성기",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "moment-random": "^1.0.4",
+    "moment-round": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minsungryu <ryums0227@gmail.com>",
+  "license": "UNLICENSED"
+}
